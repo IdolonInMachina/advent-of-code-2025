@@ -2,6 +2,8 @@
 
 Solutions for Advent of Code 2025 challenges implemented in C++20.
 
+Program structure written with the help of AI, but solutions are all my own work.
+
 ## Compilation
 
 ```bash
